@@ -1,0 +1,33 @@
+Path,Description,File Content
+content_gap_dashboard_js/,Project folder
+  tailwind.config.js,JavaScript file,"Text file, no specific patterns found"
+  .DS_Store,Project file,Binary file or non-UTF-8 encoded text file
+  next.config.js,Next.js configuration file,"Text file, no specific patterns found"
+  process.config.js,JavaScript file,"Text file, no specific patterns found"
+  package-lock.json,JSON configuration file,Binary file (MIME type: application/json)
+  package.json,Node.js package configuration,Binary file (MIME type: application/json)
+  structure.py,Project file,"Text file, no specific patterns found"
+  old/,Project folder
+    nextjs_project_structure.csv,Project file,"Text file, no specific patterns found"
+    .DS_Store,Project file,Binary file or non-UTF-8 encoded text file
+    Screen Recording 2024-09-30 at 4.55.48 PM.mov,Project file,Binary file (MIME type: video/quicktime)
+    ipsy-keywords copy.js,JavaScript file,"Text file, no specific patterns found"
+    ipsy-keywords.js,JavaScript file,"Text file, no specific patterns found"
+  styles/,CSS or styling related files
+    index.css,CSS stylesheet,"Text file, no specific patterns found"
+  components/,Reusable React components
+    DynamicSlider.js,JavaScript file,"Text file, no specific patterns found"
+    CategoryDistribution.js,JavaScript file,"Text file, no specific patterns found"
+    Sidebar.js,JavaScript file,"Text file, no specific patterns found"
+    CategoryAnalysis.js,JavaScript file,"Text file, no specific patterns found"
+    CompetitorAnalysis.js,JavaScript file,"Text file, no specific patterns found"
+    Filters.js,JavaScript file,"Text file, no specific patterns found"
+    KeywordTable.js,JavaScript file,"Text file, no specific patterns found"
+    QuestionsAnalysis.js,JavaScript file,"Text file, no specific patterns found"
+    Dashboard.js,JavaScript file,"Text file, no specific patterns found"
+  public/,Static assets served directly by Next.js
+    _app.js,JavaScript file,React component
+    data.js,JavaScript file,"Text file, no specific patterns found"
+    ._data.js,JavaScript file,Binary file or non-UTF-8 encoded text file
+  pages/,Contains page components and routing structure
+    index.js,JavaScript file,"Text file, no specific patterns found"

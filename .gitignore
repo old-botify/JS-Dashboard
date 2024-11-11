@@ -1,0 +1,43 @@
+# Dependencies
+/node_modules
+
+/public/data.js
+/public/kay.js
+
+# Next.js build output
+/.next
+/out
+
+# Production build
+/build
+
+# Random Old Files
+/old
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files
+.env*.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
